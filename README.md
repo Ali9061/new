@@ -4,3 +4,4 @@ float salary;
 string address; 
 int phoneno;
 print employee id;
+print employee name;
